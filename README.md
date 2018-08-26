@@ -87,7 +87,7 @@ __________________________
 
 ## Dev Setup:
 
-* Clone both reops (this one and the [Server Repo](https://github.com/thinkful-ei21/spaced-rep-server-sonya-jonathan))
+* Clone both reops (this one and the [Server Repo](https://github.com/sunny-slegs/cartas-contra-espanol-server))
 
 * Once you have them cloned run `npm install` on both in order to get all dependancies.
 
