@@ -14,7 +14,7 @@ __________________________
 ### Desktop View
 
 ##### Landing Page
-![Landing Page](.src/screen-shots/LG_LP.JPG)
+![Landing Page](src/screen-shots/LG_LP.JPG)
 
 ##### Registration Page
 ![Registration Page](src/screen-shots/LG_RP.JPG)
@@ -28,7 +28,7 @@ __________________________
 ### Mobile View
 
 ##### Landing Page  ########  Registration Page  ########   Game Screen   #######   Feedback Screen
-![Landing Page](./screen-shots/SM_LP.JPG)   ![Registration Page](./screen-shots/SM_RP.JPG)  ![Game Search](./screen-shots/SM_GS.JPG)    ![Feedback Screen](./screen-shots/SM_FS.JPG)
+![Landing Page](src/screen-shots/SM_LP.JPG)   ![Registration Page](src/screen-shots/SM_RP.JPG)  ![Game Search](./screen-shots/SM_GS.JPG)    ![Feedback Screen](src/screen-shots/SM_FS.JPG)
 
 
 __________________________
