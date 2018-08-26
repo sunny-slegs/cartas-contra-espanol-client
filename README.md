@@ -27,17 +27,9 @@ __________________________
 
 ### Mobile View
 
-##### Landing Page
-![Landing Page](src/screen-shots/SM_LP.JPG)
+##### Landing Page  ########  Registration Page  ########   Game Screen   #######   Feedback Screen
+![Landing Page](./screen-shots/SM_LP.JPG)   ![Registration Page](./screen-shots/SM_RP.JPG)  ![Game Search](./screen-shots/SM_GS.JPG)    ![Feedback Screen](./screen-shots/SM_FS.JPG)
 
-##### Registration Page
-![Registration Page](src/screen-shots/SM_RP.JPG)
-
-##### Game Screen
-![Game Search](src/screen-shots/SM_GS.JPG)
-
-##### Feedback Screen
-![Feedback Screen](src/screen-shots/SM_FS.JPG)
 
 __________________________
 ## Tech Stack
